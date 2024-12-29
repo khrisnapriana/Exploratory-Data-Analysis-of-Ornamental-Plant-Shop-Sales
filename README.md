@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-of-Ornamental-Plant-Shop-Sales
+# Exploratory Data Analysis of Ornamental Plant Shop Sales
